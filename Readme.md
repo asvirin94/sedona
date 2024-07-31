@@ -2,6 +2,7 @@
 
 * Студент: [Алексей Свирин](https://up.htmlacademy.ru/htmlcss-individual/2/user/1023079).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
+* Сайт: [Мой проект Седона](https://asvirin94.github.io/sedona/)
 
 ---
 
